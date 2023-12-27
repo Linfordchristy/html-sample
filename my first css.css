@@ -1,0 +1,62 @@
+div{
+    background: blue;
+    
+    color: blue;
+}
+
+#helo {
+    color: purple;
+    font-family: "verdana";
+}
+#quote{
+    color: purple;
+    font-family: "verdana";
+}
+.gender{
+    color: steelblue;
+    font-family: "verdana";
+    background: blue;
+}
+span#span{
+    background: whitesmoke;
+    color: green;
+}
+#good{
+    color: yellowgreen;
+}
+#list ol li{
+
+    color: purple;
+}
+#list ul li{
+
+    color: black;
+    height: 20px;
+    line-height: px;
+
+}
+#list li:nth-child(2){
+    color: white;
+}
+h2{
+    color: steelblue;
+    background: grey;
+}
+h3 + p{
+    font-family: "italic";
+    background: yellowgreen;
+}
+p[class]{
+    color: balck;
+    background: yellowgreen;
+
+}
+.class{
+    color:white;
+}
+#regform ~ p{
+    color: black;
+}
+.para{
+    background: #f00707;
+}
